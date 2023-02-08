@@ -12,3 +12,4 @@
 11-lists: lists all files in the current, parent and boot directories in long format
 12-file_type: prints the type of the file iamafile
 13-symbolic_link: creates a symbolic link
+14-copy_html: copy html files
