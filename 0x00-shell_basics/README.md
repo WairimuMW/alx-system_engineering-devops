@@ -5,3 +5,4 @@
 4-listmorefiles: displays all files in long format including hidden files
 5-listfilesdigitonly: displays directory contents with user and group ids displayed numerically
 6-firstdirectory: creates a directory in /tmp/
+7-movethatfile: moves file betty
