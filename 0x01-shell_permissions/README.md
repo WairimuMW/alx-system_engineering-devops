@@ -14,3 +14,4 @@
 * 13-change_group: changes the group owner to school for file hello
 * 100-change_owner_and_group: change the owner and group of all files and directories
 * 101-symbolic_link_permissions: changes the owner and group owner of a symbolic link
+* 102-if_only: changes owner of file hello to betty only if it is owned by guillaume
