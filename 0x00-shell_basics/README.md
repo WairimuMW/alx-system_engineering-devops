@@ -17,3 +17,4 @@
 101-clean_emacs: deletes emacs files
 102-tree: creates three directories
 103-commas: lists all files and directories separated by commas
+school.mgc: creates a magic file
