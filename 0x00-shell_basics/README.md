@@ -13,3 +13,4 @@
 12-file_type: prints the type of the file iamafile
 13-symbolic_link: creates a symbolic link
 14-copy_html: copy html files
+100-lets_move: moves files beginning with an uppercase letter
