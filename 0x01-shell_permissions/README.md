@@ -13,3 +13,4 @@
 * 12-directory_permissions: creates a directory with permissions 751
 * 13-change_group: changes the group owner to school for file hello
 * 100-change_owner_and_group: change the owner and group of all files and directories
+* 101-symbolic_link_permissions: changes the owner and group owner of a symbolic link
