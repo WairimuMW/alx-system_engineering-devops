@@ -5,3 +5,4 @@
 * 4-empty: create an empty file called hello
 * 5-execute: adds execute permission to the owner of the file hello
 * 6-multiple_permissions: adds different permissions to different users
+* 7-everybody: adds execute permission to all users
