@@ -15,4 +15,4 @@
 * 100-change_owner_and_group: change the owner and group of all files and directories
 * 101-symbolic_link_permissions: changes the owner and group owner of a symbolic link
 * 102-if_only: changes owner of file hello to betty only if it is owned by guillaume
-103-Star_Wars: plays StarWars IV in the terminal
+* 103-Star_Wars: plays StarWars IV in the terminal
