@@ -15,3 +15,4 @@
 14-copy_html: copy html files
 100-lets_move: moves files beginning with an uppercase letter
 101-clean_emacs: deletes emacs files
+102-tree: creates three directories
