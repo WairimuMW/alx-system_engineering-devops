@@ -16,3 +16,4 @@
 100-lets_move: moves files beginning with an uppercase letter
 101-clean_emacs: deletes emacs files
 102-tree: creates three directories
+103-commas: lists all files and directories separated by commas
