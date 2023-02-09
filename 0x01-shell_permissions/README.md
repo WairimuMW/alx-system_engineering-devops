@@ -9,3 +9,5 @@
 * 8-James_Bond: sets all permissions to other users and no permissions to owner and groups
 * 9-John_Doe: sets all permissions to owner, read and execute to group, write and execute to other users
 * 10-mirror_permissions: sets the mode of file hello the same as file olleh
+* 11-directories_permissions: adds execute permission to subdirectories only
+* 12-directory_permissions: creates a directory with permissions 751
