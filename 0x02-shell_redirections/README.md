@@ -7,3 +7,4 @@
 * 6-third_line: Displays the 3rd line of file iacta
 * 7-file: Creates a file
 * 8-cwd_state: Saves the current state of directory
+* 9-duplicate_last_line: Duplicates the last line of file iacta
