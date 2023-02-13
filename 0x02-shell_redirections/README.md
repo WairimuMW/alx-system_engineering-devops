@@ -6,3 +6,4 @@
 * 5-firstlines: Displays the first 10 lines of /etc/passwd
 * 6-third_line: Displays the 3rd line of file iacta
 * 7-file: Creates a file
+* 8-cwd_state: Saves the current state of directory
