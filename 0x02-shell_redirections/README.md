@@ -17,3 +17,4 @@
 * 16-whatsnext: Displays the line with the pattern root and 3 more after that
 * 17-hidethisword: Displays lines that do not contain the pattern bin
 * 18-letteronly: Displays lines starting with a letter
+* 19-AZ: Replaces A and c to Z and e
