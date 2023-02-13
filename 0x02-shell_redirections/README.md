@@ -15,3 +15,4 @@
 * 14-findthatword: Displays lines containing a pattern
 * 15-countthatword: Displays the number of lines that contain the pattern bin
 * 16-whatsnext: Displays the line with the pattern root and 3 more after that
+* 17-hidethisword: Displays lines that do not contain the pattern bin
