@@ -13,3 +13,4 @@
 * 12-newest_files: Displays the 10 newest files
 * 13-unique: Prints words that appear exactly once
 * 14-findthatword: Displays lines containing a pattern
+* 15-countthatword: Displays the number of lines that contain the pattern bin
