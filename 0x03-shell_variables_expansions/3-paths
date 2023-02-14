@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(($(echo $PATH | tr -cs [:alnum:] '\n' | sort | uniq | wc -l)-1))

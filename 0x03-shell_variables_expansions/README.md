@@ -8,3 +8,4 @@
 * 7-create_global_variable: Creates a new global variable
 * 0-alias: Creates an alias
 * 2-path: Adds /action to the PATH
+* 3-paths: Counts the number of directories in the PATH
