@@ -23,3 +23,4 @@
 * 22-users_and_homes: Displays all users and their home directories
 * 100-empty_casks: Finds all empty files and directories
 * 101-gifs: Lists all files with a .gif extension
+* 102-acrostic: Decodes an acrostic
