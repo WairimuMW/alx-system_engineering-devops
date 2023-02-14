@@ -7,3 +7,4 @@
 * 6-create_local_variable: Creates a new local variable
 * 7-create_global_variable: Creates a new global variable
 * 0-alias: Creates an alias
+* 2-path: Adds /action to the PATH
