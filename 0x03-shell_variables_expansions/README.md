@@ -11,3 +11,4 @@
 * 3-paths: Counts the number of directories in the PATH
 * 11-binary_to_decimal: Converts a number from base 2 to base 10
 * 100-decimal_to_hexadecimal: Converts a number from base 10 to base 16
+* 12-combinations: Prints all combinations of 2 letters except oo
