@@ -4,3 +4,4 @@
 * 10-love_exponent_breath: Displays the result of BREATH to the power of LOVE
 * 4-global_variables: Lists environment variables
 * 5-local_variables: Lists all local and environment variables and functions
+* 6-create_local_variable: Creates a new local variable
