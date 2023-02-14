@@ -6,3 +6,4 @@
 * 5-local_variables: Lists all local and environment variables and functions
 * 6-create_local_variable: Creates a new local variable
 * 7-create_global_variable: Creates a new global variable
+* 0-alias: Creates an alias
