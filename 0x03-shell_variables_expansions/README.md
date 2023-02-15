@@ -13,3 +13,4 @@
 * 100-decimal_to_hexadecimal: Converts a number from base 10 to base 16
 * 12-combinations: Prints all combinations of 2 letters except oo
 * 13-print_float: Prints a number with 2 decimal places
+* 101-rot13: Encodes and decodes text using the rot13 encryption
