@@ -14,3 +14,4 @@
 * 12-combinations: Prints all combinations of 2 letters except oo
 * 13-print_float: Prints a number with 2 decimal places
 * 101-rot13: Encodes and decodes text using the rot13 encryption
+* 102-odd: Prints every other line from the input
